@@ -1,4 +1,4 @@
-Language Translation Tool
+#Language Translation Tool
 This repository contains a Jupyter Notebook for building a language translation tool using Python. The tool utilizes the transformers library from Hugging Face and other necessary packages to perform translations between different languages.
 
 Requirements
